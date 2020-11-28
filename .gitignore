@@ -1,0 +1,12 @@
+# VSCode settings
+.vscode
+
+# Databases and logs
+configServer
+router
+shard1
+shard2
+shard3
+
+# Data
+products.part2.json
