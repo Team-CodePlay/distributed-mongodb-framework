@@ -5,7 +5,7 @@
 configServer1
 configServer2
 configServer3
-router
+router/log
 shard11
 shard21
 shard31
