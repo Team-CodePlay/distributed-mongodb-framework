@@ -15,3 +15,5 @@ md shard3\shard31\db shard3\shard31\log shard3\shard32\db shard3\shard32\log sha
 @REM To create log for mongos router
 md router\log
 
+cd configServer
+
