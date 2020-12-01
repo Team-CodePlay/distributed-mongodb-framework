@@ -1,1 +1,1 @@
-sudo mongod -f configServer/configServerConfiguration$1.conf --fork
+sudo mongod -f configServer/configServerConfiguration$1.conf --bind_ip $publicIP --fork
