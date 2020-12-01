@@ -8,6 +8,3 @@ mkdir -p shard2/shard21/db shard2/shard21/log shard2/shard22/db shard2/shard22/l
 mkdir -p shard3/shard31/db shard3/shard31/log shard3/shard32/db shard3/shard32/log shard3/shard33/db shard3/shard33/log
 
 mkdir -p router/log
-
-cd configServer
-
