@@ -2,19 +2,19 @@
 .vscode
 
 # Databases and logs
-configServer1
-configServer2
-configServer3
+configServer/configServer1
+configServer/configServer2
+configServer/configServer3
 router/log
-shard11
-shard21
-shard31
-shard12
-shard22
-shard32
-shard13
-shard23
-shard33
+shard1/shard11
+shard2/shard21
+shard3/shard31
+shard1/shard12
+shard2/shard22
+shard3/shard32
+shard1/shard13
+shard2/shard23
+shard3/shard33
 
 # Data
 products.part2.json
