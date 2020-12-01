@@ -7,4 +7,5 @@ sudo chmod +x run2NodeShard3.sh
 sudo chmod +x runMongosWith2ConfigServer.sh
 sudo chmod +x runConfigServer.sh
 sudo chmod +x runShard.sh
+sudo chmod +x runShardConf.sh
 sudo chmod +x setEnv.sh
