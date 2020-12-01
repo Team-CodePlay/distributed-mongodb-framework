@@ -1,0 +1,1 @@
+sudo mongod -f configServer/configServerConfiguration$1.conf --fork
